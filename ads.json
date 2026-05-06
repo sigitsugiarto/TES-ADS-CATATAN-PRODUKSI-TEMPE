@@ -1,6 +1,6 @@
 {
   "ads": {
-    "banner": false,
+    "banner": true,
     "interstitial": true,
 
     "banner_id": "ca-app-pub-3940256099942544/6300978111",
